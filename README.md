@@ -1,7 +1,7 @@
 # JobRecommendation
 Job Recommendation System - iNetworks Task
 
-Given a job title, the system would recommend similar and related job titles, functions and idustries.
+Given a job title, the system would recommend similar and related job titles, functions and industries.
 
 Model used: TF-IDF
 The system was deployed using Flask.
